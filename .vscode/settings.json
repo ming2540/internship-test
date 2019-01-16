@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ctime": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp"
+    }
+}

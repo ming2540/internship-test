@@ -1,0 +1,5 @@
+Pizza => Italian
+Pad Thai => Noodle with some Shrimp
+Chicken Wings => Menu in KFC
+Fried Rice => Simple Dish
+Steak => Meat Dish
