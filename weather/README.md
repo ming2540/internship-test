@@ -21,3 +21,7 @@ weather.json
     "name": "City of London",
     "coord": {
 ...
+
+แหล่งที่มา
+https://www.journaldev.com/19392/python-xml-to-json-dict
+https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
